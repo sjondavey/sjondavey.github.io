@@ -53,6 +53,10 @@ Do not add a custom domain in Pages settings, and do not change GoDaddy, until y
 
 Logo and tab icon: `src/assets/img/logo.jpg` and `src/assets/img/icon.png`.
 
+## Ghost backup
+
+The old Ghost export is in [`docs/archive/ghost/`](docs/archive/ghost/). It is not part of the published site. Use it if you later want to restore or republish original articles.
+
 ## Decision record
 
 Hosting and DNS notes: [`docs/decision.md`](docs/decision.md). Do not change GoDaddy DNS until GitHub Pages is serving the site on `sjondavey.github.io`.
