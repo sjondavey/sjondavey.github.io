@@ -104,23 +104,12 @@ main {
   width: 2.5rem;
   height: 2.5rem;
   object-fit: contain;
-}
-
-.logo-light {
   mix-blend-mode: multiply;
 }
 
-.logo-dark {
-  display: none;
-}
-
 @media (prefers-color-scheme: dark) {
-  .logo-light {
-    display: none;
-  }
-
-  .logo-dark {
-    display: block;
+  .brand img {
+    filter: invert(1);
     mix-blend-mode: screen;
   }
 }
