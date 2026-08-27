@@ -1,0 +1,8 @@
+[
+  { "label": "About", "url": "/about/" },
+  { "label": "Consulting", "url": "/consulting/" },
+  { "label": "Work", "url": "/work/" },
+  { "label": "CV", "url": "/cv/" },
+  { "label": "Documents", "url": "/documents/" },
+  { "label": "Contact", "url": "/contact/" }
+]
