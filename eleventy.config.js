@@ -1,7 +1,8 @@
 export default function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("src/assets");
-  eleventyConfig.addPassthroughCopy("src/files");
+  eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
+  eleventyConfig.addPassthroughCopy({ "src/files": "files" });
   eleventyConfig.addPassthroughCopy("src/robots.txt");
+  eleventyConfig.addPassthroughCopy({ "src/.nojekyll": ".nojekyll" });
   // src/CNAME is not copied until GoDaddy DNS is switched to GitHub Pages.
   eleventyConfig.addPassthroughCopy({ "src/assets/img/icon.png": "favicon.ico" });
 
