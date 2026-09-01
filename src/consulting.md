@@ -13,7 +13,7 @@ Much of my work begins when a rule, regulation or technological development crea
 
 Examples include:
 
-- applying permitted valuation techniques to create a balance-sheet management programme that substantially reduces capital requirements;
+- applying permitted valuation techniques, including a [risk-neutral economic scenario generator](/documents/economic-scenario-generator/), to create a balance-sheet management programme that substantially reduces capital requirements;
 - turning data-hygiene regulation into diagnostic toolkits and automation tools; and
 - using cloud services to access advanced technologies and build real-time, event-driven data and process automation.
 

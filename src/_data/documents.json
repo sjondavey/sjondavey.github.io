@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "title": "A risk-neutral economic scenario generator",
+    "url": "/documents/economic-scenario-generator/",
+    "date": "2026-09-01",
+    "summary": "Auto-calibrated to market rates and volatilities. Risk-neutral — not real-world, and not the looser “market consistent” compromise."
+  }
+]

@@ -11,6 +11,8 @@ This is not a complete portfolio. It is a sample of the kind of work I take on, 
 
 I built a stochastic economic scenario model for long-term insurance valuation and risk analysis. Its C++ engine jointly simulates interest rates, inflation and asset returns across multiple markets, calibrating them to market data while preserving the relationships between economic variables. It produces internally consistent scenarios that insurers can use to explore how assets and liabilities may behave across a wide range of future economic conditions.
 
+There is a [longer note on this generator](/documents/economic-scenario-generator/).
+
 ## XVA calculation for derivatives portfolios
 
 I built an XVA analytics engine that allows structurers to assemble derivatives portfolios in Excel or Python, run Monte Carlo simulations and calculate valuation adjustments including CVA, DVA, FVA and KVA. By making these calculations available during portfolio construction, the tool allows users to assess the effects of counterparty credit risk, funding and capital before a proposed structure is traded.
